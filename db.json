@@ -1,0 +1,175 @@
+{
+	"student": [{
+			"studentID": "20191385",
+			"image": "/public/images/Idname_Students/20191385/20191385.JPG",
+			"feature": "",
+			"studentName": "N.T.N.An"
+		},
+		{
+			"studentID": "20191386",
+			"image": "/public/images/Idname_Students/20191386/20191386.JPG",
+			"feature": "",
+			"studentName": "C.T.T.Anh"
+		},
+		{
+			"studentID": "20191388",
+			"image": "/public/images/Idname_Students/20191388/20191388.JPG",
+			"feature": "",
+			"studentName": "L.T.N.Anh"
+		},
+		{
+			"studentID": "20191389",
+			"image": "/public/images/Idname_Students/20191389/20191389.JPG",
+			"feature": "",
+			"studentName": "T.T.Anh"
+		},
+		{
+			"studentID": "20191390",
+			"image": "/public/images/Idname_Students/20191390/20191390.JPG",
+			"feature": "",
+			"studentName": "T.T.T.Binh"
+		},
+		{
+			"studentID": "20191391",
+			"image": "/public/images/Idname_Students/20191391/20191391.JPG",
+			"feature": "",
+			"studentName": "N.T.L.Chi"
+		},
+		{
+			"studentID": "20191392",
+			"image": "/public/images/Idname_Students/20191392/20191392.JPG",
+			"feature": "",
+			"studentName": "T.Q.Dai"
+		},
+		{
+			"studentID": "20191393",
+			"image": "/public/images/Idname_Students/20191393/20191393.JPG",
+			"feature": "",
+			"studentName": "T.D.Dien"
+		},
+		{
+			"studentID": "20191394",
+			"image": "/public/images/Idname_Students/20191394/20191394.JPG",
+			"feature": "",
+			"studentName": "T.T.T.Diu"
+		},
+		{
+			"studentID": "20191395",
+			"image": "/public/images/Idname_Students/20191395/20191395.JPG",
+			"feature": "",
+			"studentName": "N.T.Dung"
+		},
+		{
+			"studentID": "20191396",
+			"image": "/public/images/Idname_Students/20191396/20191396.JPG",
+			"feature": "",
+			"studentName": "D.T.H.Giang"
+		},
+		{
+			"studentID": "20191397",
+			"image": "/public/images/Idname_Students/20191397/20191397.JPG",
+			"feature": "",
+			"studentName": "N.T.H.Giang"
+		},
+		{
+			"studentID": "20191398",
+			"image": "/public/images/Idname_Students/20191398/20191398.JPG",
+			"feature": "",
+			"studentName": "L.T.N.Ha"
+		},
+		{
+			"studentID": "20191399",
+			"image": "/public/images/Idname_Students/20191399/20191399.JPG",
+			"feature": "",
+			"studentName": "T.D.Hai"
+		},
+		{
+			"studentID": "20191400",
+			"image": "/public/images/Idname_Students/20191400/20191400.JPG",
+			"feature": "",
+			"studentName": "N.T.T.Hien"
+		},
+		{
+			"studentID": "20191401",
+			"image": "/public/images/Idname_Students/20191401/20191401.JPG",
+			"feature": "",
+			"studentName": "L.T.Hoa"
+		},
+		{
+			"studentID": "20191402",
+			"image": "/public/images/Idname_Students/20191402/20191402.JPG",
+			"feature": "",
+			"studentName": "N.P.Hoi"
+		},
+		{
+			"studentID": "20191403",
+			"image": "/public/images/Idname_Students/20191403/20191403.JPG",
+			"feature": "",
+			"studentName": "N.Q.Huy"
+		},
+		{
+			"studentID": "20191404",
+			"image": "/public/images/Idname_Students/20191404/20191404.JPG",
+			"feature": "",
+			"studentName": "B.T.H.Linh"
+		},
+		{
+			"studentID": "20191406",
+			"image": "/public/images/Idname_Students/20191406/20191406.JPG",
+			"feature": "",
+			"studentName": "N.T.Mai"
+		},
+		{
+			"studentID": "20191407",
+			"image": "/public/images/Idname_Students/20191407/20191407.JPG",
+			"feature": "",
+			"studentName": "N.T.N.Mai"
+		},
+		{
+			"studentID": "20191408",
+			"image": "/public/images/Idname_Students/20191408/20191408.JPG",
+			"feature": "",
+			"studentName": "N.T.K.Ngan"
+		},
+		{
+			"studentID": "20191409",
+			"image": "/public/images/Idname_Students/20191409/20191409.JPG",
+			"feature": "",
+			"studentName": "N.T.Nhung"
+		},
+		{
+			"studentID": "20191410",
+			"image": "/public/images/Idname_Students/20191410/20191410.JPG",
+			"feature": "",
+			"studentName": "T.N.Son"
+		},
+		{
+			"studentID": "20191411",
+			"image": "/public/images/Idname_Students/20191411/20191411.JPG",
+			"feature": "",
+			"studentName": "N.D.Thanh"
+		},
+		{
+			"studentID": "20194268",
+			"image": "/public/images/Idname_Students/20194268/20194268.JPG",
+			"feature": "",
+			"studentName": "B.X.Hai"
+		}
+	],
+	"teacher": [{
+			"teacherID": 1,
+			"username": "gv1@hust.edu.vn",
+			"password": "12345678"
+		},
+		{
+			"teacherID": 2,
+			"username": "gv2@hust.edu.vn",
+			"password": "12345678"
+		},
+		{
+			"teacherID": 3,
+			"username": "gv3@hust.edu.vn",
+			"password": "12345678"
+		}
+	]
+}
